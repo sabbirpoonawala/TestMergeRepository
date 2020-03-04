@@ -6,4 +6,5 @@ public class TestController {
   
   public void x2(){}
 
+  public void x4() {}
 }
