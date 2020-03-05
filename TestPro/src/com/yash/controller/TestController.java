@@ -6,6 +6,8 @@ public class TestController {
 		
 		System.out.println("--line 2--");
 	    System.out.println("--line 1--");
+	
+		System.out.println("--line 3--");
 	}
   
   public void x2(){}
