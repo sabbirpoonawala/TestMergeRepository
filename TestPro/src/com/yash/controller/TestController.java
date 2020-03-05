@@ -13,6 +13,7 @@ public class TestController {
 	    //new line
 	    System.out.println("--line 8--");
 	    System.out.println("--");
+	System.out.println("--line 7--");
 	    System.out.println("---");
 	    System.out.println("--modified--");
 	
