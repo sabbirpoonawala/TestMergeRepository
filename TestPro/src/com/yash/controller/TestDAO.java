@@ -8,6 +8,7 @@ public class TestDAO {
   
   public void newMethod(){
 	  System.out.println("--local repository line--");
+	  System.out.println("--remote repository line--");
   }
 
 }
