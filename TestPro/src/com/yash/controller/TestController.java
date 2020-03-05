@@ -10,6 +10,8 @@ public class TestController {
 	    System.out.println("--line 4--");
 	    
 	    System.out.println("--line 6--");
+	    //new line
+	    System.out.println("--line 8--");
 	    System.out.println("--");
 	    System.out.println("---");
 	    System.out.println("--modified--");
