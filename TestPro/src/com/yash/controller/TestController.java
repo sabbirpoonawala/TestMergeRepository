@@ -8,6 +8,8 @@ public class TestController {
 	    System.out.println("--line 1--");
 	    
 	    System.out.println("--line 4--");
+	    
+	    System.out.println("--line 6--");
 	}
 
   
