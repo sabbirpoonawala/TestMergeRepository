@@ -7,6 +7,6 @@ public class TestService {
   }
 
 	public void localMethod() {
-		
+		System.out.println("--Added line 1---");
 	}
 }
